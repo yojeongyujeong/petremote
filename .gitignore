@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.env
+dogwalk/
+catboost_info/
+aihubshell
+petremote의 한계분석_claude.pdf
+yolov8x-pose.pt
+============================
+ddddddddd.ipynb
+petremote_my.ipynb
+petremote 3.ipynb
